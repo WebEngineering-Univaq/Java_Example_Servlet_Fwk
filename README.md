@@ -1,4 +1,4 @@
-# Esempio_Servlet_Fwk_Maven
+# Java_Example_Servlet_Fwk
 > The base Java servlet example using the course common utility framework
 
 The Esempio_Servlet_Maven application rewritten using our framework of reusable code (developed during the course), with a better layer separation.
@@ -16,4 +16,4 @@ This is a Maven-based project. Simply download the code and open it in any Maven
  
 ---
 
-![University od L'Aquila](https://www.disim.univaq.it/skins/aqua/img/logo2021-2.png)
+![University of L'Aquila](https://www.disim.univaq.it/skins/aqua/img/logo2021-2.png)
